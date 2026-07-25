@@ -1,6 +1,0 @@
-* Running on local URL:  http://0.0.0.0:7860
-URL = https://sundaraseka1-7860.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/
-* Running on local URL:  http://0.0.0.0:7860
-URL = https://sundaraseka1-7860.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/
-* Running on local URL:  http://0.0.0.0:7860
-URL: https://sundaraseka1-7860.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/

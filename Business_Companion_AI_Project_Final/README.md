@@ -1,1 +1,0 @@
-# Business Companion AI Project
